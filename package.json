@@ -1,17 +1,23 @@
-
 {
-	"author": "Jean-Baptiste Maury",
-	"name": "fcc-learn-npm-package-json",
-	"description": "Learning Javascript Backend and API",
-	"dependencies": {
-		"express": "^4.14.0"
-	},
-	"main": "server.js",
-	"scripts": {
-		"start": "node server.js"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
-	}
+  "author": "Jean-Baptiste Maury",
+  "name": "fcc-learn-npm-package-json",
+  "description": "Learning Javascript Backend and API",
+  "keywords": [
+    "course",
+    "FreeCodeCamp",
+    "javascript",
+    "backend",
+    "api"
+  ],
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
+  }
 }
