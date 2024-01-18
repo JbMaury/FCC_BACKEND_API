@@ -2,6 +2,7 @@
 {
 	"author": "Jean-Baptiste Maury",
 	"name": "fcc-learn-npm-package-json",
+	"description": "Learning Javascript Backend and API",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
